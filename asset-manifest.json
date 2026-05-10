@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/HandWriting/static/css/main.e360b6b8.chunk.css",
+    "main.js": "/HandWriting/static/js/main.1553bb3e.chunk.js",
+    "main.js.map": "/HandWriting/static/js/main.1553bb3e.chunk.js.map",
+    "runtime-main.js": "/HandWriting/static/js/runtime-main.7536d75b.js",
+    "runtime-main.js.map": "/HandWriting/static/js/runtime-main.7536d75b.js.map",
+    "static/js/2.979fe64b.chunk.js": "/HandWriting/static/js/2.979fe64b.chunk.js",
+    "static/js/2.979fe64b.chunk.js.map": "/HandWriting/static/js/2.979fe64b.chunk.js.map",
+    "index.html": "/HandWriting/index.html",
+    "precache-manifest.7301f422f667d6ef3f6c35ed1a143bcf.js": "/HandWriting/precache-manifest.7301f422f667d6ef3f6c35ed1a143bcf.js",
+    "service-worker.js": "/HandWriting/service-worker.js",
+    "static/css/main.e360b6b8.chunk.css.map": "/HandWriting/static/css/main.e360b6b8.chunk.css.map",
+    "static/js/2.979fe64b.chunk.js.LICENSE.txt": "/HandWriting/static/js/2.979fe64b.chunk.js.LICENSE.txt",
+    "static/media/convert.svg": "/HandWriting/static/media/convert.61532e6e.svg",
+    "static/media/footer.svg": "/HandWriting/static/media/footer.98645264.svg",
+    "static/media/pen.svg": "/HandWriting/static/media/pen.b40b2673.svg",
+    "static/media/upload.svg": "/HandWriting/static/media/upload.92281108.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7536d75b.js",
+    "static/js/2.979fe64b.chunk.js",
+    "static/css/main.e360b6b8.chunk.css",
+    "static/js/main.1553bb3e.chunk.js"
+  ]
+}
