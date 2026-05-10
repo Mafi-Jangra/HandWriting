@@ -100,7 +100,7 @@ HandReacting is a project made with React JS.
 And yes, you can also thank me for making your life easier by giving a ⭐ for the HandReacting repository
 
 # Handwriting AI ✍️
-[Click here to view the Live Demo](https://Mafi-Jangra.github.io/HandWriting)
+[Click here to view the Live Demo](https://mafi-jangra.github.io/HandWriting/)
 
 
 
