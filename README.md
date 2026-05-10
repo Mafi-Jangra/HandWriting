@@ -1,33 +1,104 @@
-<p align="center">
-  <img alt="handwriting_ai_logo" src="./public/logo.png" width="250px" />
+
+<p  align="center">
+
+<img  alt="handreacting_logo"  src="./src/media/mainlogo.png"  width="250px"  />
+
 </p>
 
-# Handwriting AI
 
-Tired of spending hours on manual written assignments? **Handwriting AI** is the ultimate productivity tool designed to bridge the gap between digital and physical documentation.
+  
 
-It converts typed documents into realistic handwritten ones 🖋️, saving you valuable time. Personalize your work with various fonts, ink effects, and paper styles to make it look authentic.
+Are you tired and fed up of the multitude of written assignments that you have to submit?
 
----
+### *HandReacting* is the PERFECT solution to all your problems. It converts typed documents into handwritten ones 🖋, saving you a hella lotta time. ⏳
 
-## 🚀 About the Project
-Handwriting AI is a React-based application that allows users to generate handwritten text in the form of downloadable images. It is specifically designed for students and professionals who need to maintain a handwritten aesthetic without the physical hassle.
+  
 
-**Key Features:**
-* **34+ Handwritten Fonts:** Choose a style that matches your own.
-* **Highly Customizable:** Adjust font size, weight, letter spacing, and word spacing.
-* **Realistic Paper Effects:** Toggle page lines, margins, and scan shadows.
-* **Digital to Physical:** Download your results as high-quality images.
+<br><br><br>
 
-Developed by **[Mafi Jangra](https://github.com/Mafi-Jangra)**.
+  
+  
 
----
+<p  align="center">
 
-## 🛠️ Prerequisites
-To run this project locally, you need:
-- [Node.js & npm](https://www.npmjs.com/get-npm)
+<img  alt="handreacting_image"  src="./src/media/read.svg"  width="250px"  />
 
-## 💻 Installing and Running
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Mafi-Jangra/HandWriting.git](https://github.com/Mafi-Jangra/HandWriting.git)
+</p>
+
+## About the Project
+HandReacting is an app which allows the user to generate handwritten text in the form of a downloadable image from the input given. It can be used by students to generate their assignments so that they don't have to go through the hassle of writing down everything physically.
+
+The project has been made using React.
+
+## Prerequisites
+
+Required to install and run the software:
+
+-   [npm](https://www.npmjs.com/get-npm)
+
+## Installing and Running
+From the project folder, run these commands in console (terminal) to install dependencies and run the app:
+```
+npm install
+npm start
+```
+Open [http://localhost:3000](http://localhost:3000/) with your browser to see the result.
+
+## Usage Instructions
+
+ - Choose from 34 fonts that looks handwritten
+ - Adjust font size to choose number of words in a line
+ - Adjust font weight to change boldness of the text
+ - Letter spacing and word spacing helps arrange words more closely
+ - Change font color and paper page color to get paper like appearance
+ - Adjusting line height is important when page lines are enabled
+ - Page lines provide lines in the paper
+ - Scan effect provides a shadow to the page
+ - Page margin gives a margin to the page
+
+## Screenshots
+
+* Converting Text to 34 different handwritten font faces.
+
+<p  align="center">
+
+<img  src="./src/media/main.PNG"  alt=""/>
+
+</p>
+
+<br>
+
+  
+
+* Extracting text from images before converting to various fonts.
+
+<p  align="center">
+
+<img  src="./src/media/extract.PNG"  alt=""/>
+
+</p>
+
+<br>
+
+  
+
+* Converting speech to text
+
+<p  align="center">
+
+<img  src="./src/media/voice.PNG"  alt=""/>
+
+</p>
+
+  
+
+<br  ><br  ><br  >
+
+## Notes
+HandReacting is a project made with React JS. 
+
+And yes, you can also thank me for making your life easier by giving a ⭐ for the HandReacting repository
+
+
+
+### Thank You!
