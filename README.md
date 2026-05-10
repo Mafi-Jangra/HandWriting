@@ -1,7 +1,7 @@
 
 <p  align="center">
 
-<img  alt="handreacting_logo"  src="./src/media/mainlogo.png"  width="250px"  />
+<img  alt="handreacting_logo"  src="HandWritting./src/media/mainlogo.png"  width="250px"  />
 
 </p>
 
@@ -21,7 +21,7 @@ Are you tired and fed up of the multitude of written assignments that you have t
 
 <p  align="center">
 
-<img  alt="handreacting_image"  src="./src/media/read.svg"  width="250px"  />
+<img  alt="handreacting_image"  src="HandWritting./src/media/read.svg"  width="250px"  />
 
 </p>
 
@@ -62,7 +62,7 @@ Open [http://localhost:3000](http://localhost:3000/) with your browser to see th
 
 <p  align="center">
 
-<img  src="./src/media/main.PNG"  alt=""/>
+<img  src="HandWritting./src/media/main.PNG"  alt=""/>
 
 </p>
 
@@ -74,7 +74,7 @@ Open [http://localhost:3000](http://localhost:3000/) with your browser to see th
 
 <p  align="center">
 
-<img  src="./src/media/extract.PNG"  alt=""/>
+<img  src="HandWritting./src/media/extract.PNG"  alt=""/>
 
 </p>
 
@@ -86,7 +86,7 @@ Open [http://localhost:3000](http://localhost:3000/) with your browser to see th
 
 <p  align="center">
 
-<img  src="./src/media/voice.PNG"  alt=""/>
+<img  src="HandWritting./src/media/voice.PNG"  alt=""/>
 
 </p>
 
